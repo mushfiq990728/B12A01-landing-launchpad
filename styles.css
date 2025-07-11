@@ -42,10 +42,9 @@
   font-family: 'Raleway', sans-serif;
   font-size: 33px;
   /* font-weight: bold; */
-  margin: 200px 300px;
-  /* border: 2px solid; */
-  /* padding: 100px 110px;
-   */
+  /* margin: 200px 300px; */
+  /* border: 0px solid; */
+  padding: 100px 350px;
   background-image: url(Assets/Hero-bg.png);
 }
 .focus{
